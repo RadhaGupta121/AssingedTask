@@ -1,0 +1,16 @@
+
+.footer{
+    margin: auto;
+    width: 80%; 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 2rem 2rem 2rem 2rem;
+}
+.company>li , .general>li , .more>li,.pages>li,.logo>li{
+    color:white;
+    padding:0.4rem;
+}
+.heading{
+    color:rgb(234, 74, 74);
+}
